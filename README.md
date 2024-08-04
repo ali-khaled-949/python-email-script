@@ -46,7 +46,7 @@ Edit the script to include your email credentials and the recipient's email addr
 
 <HIDDEN> with your sender email address.
 <HIDDEN> with the recipient email address.
-<<Hidden>> with your app password.
+<Hidden> with your app password.
 
 
 --Run the program --
@@ -91,9 +91,9 @@ Response (Part B) Server 2:
 
 250 smtp.gmail.com at your service
 
-334 VXNlcm5hbWU6
+334 <Hidden>
 
-334 UGFzc3dvcmQ6
+334 <Hidden>
 
 235 2.7.0 Accepted
 
